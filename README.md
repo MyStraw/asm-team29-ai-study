@@ -1,4 +1,5 @@
 # ASM Team29 — 냉장고 재료 기반 레시피 추천 서비스
+<img width="1494" height="1500" alt="602653472-60e07792-b133-4038-a969-2f2da91db224" src="https://github.com/user-attachments/assets/d893b10c-f2b4-47f6-8d3b-0e34e2c73b18" />
 
 사용자가 가진 재료(사진 또는 직접 입력)와 현재 기분·상황을 바탕으로,
 LangGraph 멀티 에이전트 파이프라인이 실제로 만들 수 있는 레시피를
